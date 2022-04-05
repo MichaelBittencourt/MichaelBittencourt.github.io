@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+##  Michael Bittencourt GitHub
 
-You can use the [editor on GitHub](https://github.com/MichaelBittencourt/MichaelBittencourt.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Here you can find my more important projects. I realy use my github to add everything that I work. And this page can help you to check my work.
+I think that you can realy find good projects to learn, joy and pass your time. Please check content and send feedbacks. If you think, please contribute to improve the projects.
+Thank you and enjoy!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About Michael Bittencourt
 
-### Markdown
+I am a computer engineer that love sciency, tecnology, philosophy, matematics, music and any type of knowledgment. In my formal job I am a software engineer, and I work every day with new tecnologies, linux, terminal, etc. I love a command line. I Love work with vim to write code and shell script to automate my work day and interact with the computer.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MichaelBittencourt/MichaelBittencourt.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<details>
+  <summary>CESAR School Tutoring</summary>
+  
+  * [Process Scheduler Calculator](https://github.com/MichaelBittencourt/ProcessSchedulerCalculator)
+  * [Threads Examples](https://github.com/MichaelBittencourt/Threads-Examples)
+  * [Redirection Pipe Examples](https://github.com/MichaelBittencourt/RedirectionPipeExamples)
+  * [Michael Shell](https://github.com/MichaelBittencourt/MichaelShell)
+  * [Creating Process Linux](https://github.com/MichaelBittencourt/creatingProcessLinuxExample)
+  * [Simple program C](https://github.com/MichaelBittencourt/copy_file)
+  * [Makefile Example](https://github.com/MichaelBittencourt/MakefileExamples)
+  * [Simple Java Examples](https://github.com/MichaelBittencourt/Simple-Java-Examples)
+  * [Semaphore Examples](https://github.com/MichaelBittencourt/SemaphoreExample)
+</details>
