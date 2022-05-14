@@ -1,5 +1,7 @@
 ##  Michael Bittencourt GitHub
 
+![Profile](https://avatars.githubusercontent.com/u/7675136?v=4)
+
 Here you can find my more important projects. I realy use my github to add everything that I work. And this page can help you to check my work.
 I think that you can realy find good projects to learn, joy and pass your time. Please check content and send feedbacks. If you think, please contribute to improve the projects.
 Thank you and enjoy!
@@ -8,6 +10,7 @@ Thank you and enjoy!
 
 I am a computer engineer that love sciency, tecnology, philosophy, matematics, music and any type of knowledgment. In my formal job I am a software engineer, and I work every day with new tecnologies, linux, terminal, etc. I love a command line. I Love work with vim to write code and shell script to automate my work day and interact with the computer.
 
+ * [Process Scheduler Calculator](https://github.com/MichaelBittencourt/ProcessSchedulerCalculator)
 <details>
   <summary>CESAR School Tutoring</summary>
   
