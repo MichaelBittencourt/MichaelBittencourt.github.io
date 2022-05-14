@@ -13,36 +13,39 @@ I am a computer engineer that love sciency, tecnology, philosophy, matematics, m
 <details>
   <summary>More relevant projects</summary>
     <ul>
-      <li><a href="https://github.com/MichaelBittencourt/NCL-Generator-API">NCL Generator API</a>
-      <li><a href="https://github.com/MichaelBittencourt/ncljs">Ncljs</a>
-      <li><a href="https://github.com/MichaelBittencourt/.dotfiles">.dotfiles</a>
-      <li><a href="https://github.com/MichaelBittencourt/TerCanvas">TerCanvas</a>
-      <li><a href="https://github.com/MichaelBittencourt/MichaelShell">Michael Shell</a>
-      <li><a href="https://github.com/MichaelBittencourt/NeuralNetwork">Neural Network</a>
-      <li><a href="https://github.com/MichaelBittencourt/PigDev">PigDev</a>
+      <li><a href="https://github.com/MichaelBittencourt/NCL-Generator-API">NCL Generator API</a></li>
+      <li><a href="https://github.com/MichaelBittencourt/ncljs">Ncljs</a></li>
+      <li><a href="https://github.com/MichaelBittencourt/.dotfiles">.dotfiles</a></li>
+      <li><a href="https://github.com/MichaelBittencourt/TerCanvas">TerCanvas</a></li>
+      <li><a href="https://github.com/MichaelBittencourt/MichaelShell">Michael Shell</a></li>
+      <li><a href="https://github.com/MichaelBittencourt/NeuralNetwork">Neural Network</a></li>
+      <li><a href="https://github.com/MichaelBittencourt/PigDev">PigDev</a></li>
+    </ul>
 </details>
 
 
 <details>
   <summary>CESAR School Tutoring</summary>
     <ul>
-      <li><a href="https://github.com/MichaelBittencourt/ProcessSchedulerCalculator">Process Scheduler Calculator</a>
-      <li><a href="https://github.com/MichaelBittencourt/Threads-Examples">Threads Examples</a>
-      <li><a href="https://github.com/MichaelBittencourt/RedirectionPipeExamples">Redirection Pipe Examples</a>
-      <li><a href="https://github.com/MichaelBittencourt/MichaelShell">Michael Shell</a>
-      <li><a href="https://github.com/MichaelBittencourt/creatingProcessLinuxExample">Creating Process Linux</a>
-      <li><a href="https://github.com/MichaelBittencourt/copy_file">Simple program C</a>
-      <li><a href="https://github.com/MichaelBittencourt/MakefileExamples">Makefile Example</a>
-      <li><a href="https://github.com/MichaelBittencourt/Simple-Java-Examples">Simple Java Examples</a>
-      <li><a href="https://github.com/MichaelBittencourt/SemaphoreExample">Semaphore Examples</a>
-      <li><a href="https://github.com/MichaelBittencourt/ProductConsumer">Productor Consumer</a>
+      <li><a href="https://github.com/MichaelBittencourt/ProcessSchedulerCalculator">Process Scheduler Calculator</a></li>
+      <li><a href="https://github.com/MichaelBittencourt/Threads-Examples">Threads Examples</a></li>
+      <li><a href="https://github.com/MichaelBittencourt/RedirectionPipeExamples">Redirection Pipe Examples</a></li>
+      <li><a href="https://github.com/MichaelBittencourt/MichaelShell">Michael Shell</a></li>
+      <li><a href="https://github.com/MichaelBittencourt/creatingProcessLinuxExample">Creating Process Linux</a></li>
+      <li><a href="https://github.com/MichaelBittencourt/copy_file">Simple program C</a></li>
+      <li><a href="https://github.com/MichaelBittencourt/MakefileExamples">Makefile Example</a></li>
+      <li><a href="https://github.com/MichaelBittencourt/Simple-Java-Examples">Simple Java Examples</a></li>
+      <li><a href="https://github.com/MichaelBittencourt/SemaphoreExample">Semaphore Examples</a></li>
+      <li><a href="https://github.com/MichaelBittencourt/ProductConsumer">Productor Consumer</a></li>
+    </ul>
 </details>
 
 <details>
   <summary>Algorithms</summary>
     <ul>
-      <li><a href="https://github.com/MichaelBittencourt/multplyOne">multiplyOne</a>
-      <li><a href="https://github.com/MichaelBittencourt/FloodFill">FloodFill</a>
-      <li><a href="https://github.com/MichaelBittencourt/SwapNodeAlgo">SwapNodeAlgo</a>
+      <li><a href="https://github.com/MichaelBittencourt/multplyOne">multiplyOne</a></li>
+      <li><a href="https://github.com/MichaelBittencourt/FloodFill">FloodFill</a></li>
+      <li><a href="https://github.com/MichaelBittencourt/SwapNodeAlgo">SwapNodeAlgo</a></li>
+    </ul>
 </details>
 
