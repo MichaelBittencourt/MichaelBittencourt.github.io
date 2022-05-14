@@ -2,8 +2,8 @@
 
 <img src="https://avatars.githubusercontent.com/u/7675136?v=4" width="250" />
 
-Here you can find my more important projects. I realy use my github to add everything that I work. And this page can help you to check my work.
-I think that you can realy find good projects to learn, joy and pass your time. Please check content and send feedbacks. If you think, please contribute to improve the projects.
+Here you can find my most important projects. I actually use my github to add everything I work on. And this page can help you check out my work.
+I think you can really find good projects to learn, have fun and pass the time. Please check the content and send feedback. If you think, please contribute to improving the projects.
 Thank you and enjoy!
 
 ### About Michael Bittencourt
